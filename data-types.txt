@@ -1,0 +1,18 @@
+Data types has mainly two categories in js.
+
+#1 Primitive data types (7 types)
+#2 Non-primitive data types ()
+
+#1 Primitive Types =>
+1. String
+2. Number
+3. Boolean
+4. null
+5. undefined
+6. Symbol
+7. BigInt
+
+#2 Reference type / non-primitives type =>
+1. Array
+2. Objects
+3. Function
