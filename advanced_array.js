@@ -8,7 +8,6 @@ const allHeros = marvelHeros.concat(DCHeros)
 console.log("All heors using concat: ",allHeros); // all heros [......] individual index
 
 // spread operator
-
 allHeros = [...marvelHeros, ...DCHeros]; // return all arays values
 marvelHeros = [...marvelHeros, ...DCHeros] // change into orginal array
 console.log("All heors using spread: ",marvelHeros); 
